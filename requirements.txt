@@ -1,0 +1,11 @@
+cvxpy
+cvxpylayers
+gym
+setuptools-scm
+numpy
+pandas
+Requests
+scikit_learn
+stable_baselines3==1.7.0
+torch
+tqdm
